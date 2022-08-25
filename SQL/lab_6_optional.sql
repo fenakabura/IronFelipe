@@ -29,12 +29,12 @@ FROM film
 GROUP BY rating;
 
 # 5 
-SELECT rating, AVG(length) average
+SELECT rating, ROUND(AVG(length), 2) average
 FROM film
 GROUP BY rating;
 
 # 6 
-SELECT rating, AVG(length) average
+SELECT rating
 FROM film
 GROUP BY rating
-HAVING average > 120;
+HAVING AVG(length) > 120;

@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="IH_RH_DA_FT_AUG_2022" />
+    <orderEntry type="module" module-name="fe_nakabura" />
   </component>
 </module>

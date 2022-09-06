@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../IH_RH_DA_FT_AUG_2022/.idea/IH_RH_DA_FT_AUG_2022.iml" filepath="$PROJECT_DIR$/../IH_RH_DA_FT_AUG_2022/.idea/IH_RH_DA_FT_AUG_2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IronFelipe.iml" filepath="$PROJECT_DIR$/.idea/IronFelipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fe_nakabura/.idea/fe_nakabura.iml" filepath="$PROJECT_DIR$/../fe_nakabura/.idea/fe_nakabura.iml" />
     </modules>
   </component>
 </project>
